@@ -12,7 +12,7 @@ This is a simple weather app that retrieves current weather information for a gi
   <h2>Installation</h2>    
   To use the weather app, you will need to clone the repository to your local machine:
 
-    `git clone https://github.com/your-username/weather-app.git`
+    `git clone https://github.com/KHALEDKHLYAN/Weather_web-Api-Test-.git`
 
 Then, open the index.html file in your web browser.
 
